@@ -1,5 +1,5 @@
 # Addon in Blender to export a model to Gazebo
-
+[Русская версия](README_RU.md)
 ## Description
 
 `Export model to Gazebo` is a Blender addon designed to streamline the export of models to the Gazebo format, supporting both static models and animated models. This tool automates the creation of configuration files, making it easy to prepare 3D models for simulation in Gazebo with just a few clicks.
